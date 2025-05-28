@@ -9,13 +9,9 @@ telecom-churn-dashboard-sql-tableau/
 ├── churn_deep_dive.pdf
 ├── churn_segmentation.sql
 ├── project_summary.docx
-└── links.txt     ← Paste Tableau Public URLs here
-You can upload all files directly via the browser at https://github.com/yourusername/repo-name under "Add File > Upload Files".
+└── https://public.tableau.com/app/profile/ishan4560/viz/Telecom-ChurnOverview/ChurnOverview
+https://public.tableau.com/app/profile/ishan4560/viz/Telecom-ChurnDeepDive/ChurnDeepDiveCustomerPerson
 
-📄 README.md (Sample content):
-markdown
-Copy
-Edit
 # Telecom Churn Analysis (SQL + Tableau)
 
 This project contains two dashboards built using SQL and Tableau to analyze telecom customer churn from both a high-level and deep-dive perspective.
@@ -27,8 +23,8 @@ Provides a summary of churn by region, age, plan type, and billing metrics.
 Uncovers root causes of churn using usage behavior, demographics, and tenure.
 
 ## 🔗 Tableau Public Links
-- [Churn Overview Dashboard](PASTE_LINK_HERE)
-- [Churn Deep Dive Dashboard](PASTE_LINK_HERE)
+- https://public.tableau.com/app/profile/ishan4560/viz/Telecom-ChurnOverview/ChurnOverview
+- https://public.tableau.com/app/profile/ishan4560/viz/Telecom-ChurnDeepDive/ChurnDeepDiveCustomerPerson
 
 ## 📁 Included Files
 - churn_overview.pdf
