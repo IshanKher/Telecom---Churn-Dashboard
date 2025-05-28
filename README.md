@@ -31,3 +31,5 @@ Uncovers root causes of churn using usage behavior, demographics, and tenure.
 - churn_deep_dive.pdf
 - churn_segmentation.sql
 - project_summary.docx
+
+## - This dashboard helps business teams detect revenue leakage via churn and prioritize customer segments for retention campaigns.
